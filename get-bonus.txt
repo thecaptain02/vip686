@@ -1,1 +1,1 @@
-{"hot_u_n":"http://localhost:7456", "hot_u_0":"http://localhost:7455","maxConcurrentTask":10}
+{"hot_u_n":"https://randomplayertoupdate.boyphoco.pro/remote-assets/", "hot_u_0":"http://localhost:7455","maxConcurrentTask":10}
