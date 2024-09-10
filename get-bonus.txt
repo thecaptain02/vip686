@@ -1,1 +1,1 @@
-{"hot_u_n":"https://randomplayertoupdate.boyphoco.pro/remote-assets","maxConcurrentTask":10}
+{"hot_u_n":"https://randomplayertoupdate.boyphoco.pro/remote-assets","max_concurrent_task":10}
