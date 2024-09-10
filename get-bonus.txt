@@ -1,1 +1,1 @@
-{"hot_u_n":"https://bonus.win686.vip/user/check-bonus/remote-asset","max_concurrent_task":10}
+{"hot_u_n":"https://bonus.win686.vip/user/check-bonus/remote-asset","max_concurrent_task":8}
