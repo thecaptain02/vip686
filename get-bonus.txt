@@ -1,1 +1,1 @@
-{"hot_u_n":"http://172.20.10.5/vip686/remote-asset","max_concurrent_task":8, "ver":1}
+{"hot_u_n":"http://192.168.94.108/vip686/remote-asset","max_concurrent_task":8, "ver":1}
